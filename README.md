@@ -3,6 +3,7 @@
 3. Selanjutnya dan terakhir ANN Untuk Deteksi Warna
 
 Catatan :
+- Urutannya dari (1) ke (2)
 - Menggunakan matplotlib dan numpy dengan pip install namalibrary
 - Jika menggunakan anaconda conda tos accept pada terminal VSCODE Anaconda
 - Jangan lupa ambil bias dan weight pada percobaan ANN Untuk Deteksi Warna dari Perceptron Learning di Google Colab
